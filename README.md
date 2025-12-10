@@ -1,7 +1,7 @@
 # pfSense-Firewall-Lab-Setup
 
 ## 📦 What This Lab Covers
-- Deploying pfSense firewall on UTM
+- Deploying pfSense firewall on VirtualBox
 - Creating WAN + LAN network interfaces
 - Routing all Kali Linux traffic through pfSense
 - Accessing and configuring the pfSense Web GUI
