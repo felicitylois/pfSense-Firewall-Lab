@@ -1,4 +1,4 @@
-# pfSense-Firewall-Lab-Setup
+# pfSense-Firewall-Lab
 
 ## 📦 What This Lab Covers
 - Deploying pfSense firewall on VirtualBox
